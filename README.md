@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/Telegram-Liu%20fey-yellow?style=for-the-badge&amp;logo=Saweria" alt="Telegram">
     <br><br>
     <br><br>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <a href="https://github.com/liuuufey/liuuufey">
     <img src="https://github-readme-stats.vercel.app/api?username=liuuufey&theme=buefy">
     <img src="https://activity-graph.herokuapp.com/graph?username=liuuufey&theme=react-dark">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=liuuufey&theme=great-gatsby">
